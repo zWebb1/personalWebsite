@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: #611502;
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sub-header {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    line-height: 20px;
+}
+
+.about-section {
+    margin: 100px 100px;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100%;
+    border-color: gray;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.project-section {
+    margin: 100px 100px;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100%;
+}
