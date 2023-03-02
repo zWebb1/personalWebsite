@@ -8,17 +8,17 @@ body {
     text-align: center;
     background: #611502;
     color: white;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .sub-header {
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .aboutText {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: normal;
     font-family: "Lucida Console", "Courier New", monospace;
     color: white;
@@ -50,7 +50,7 @@ body {
 
 .projectText {
     text-align: left;
-    font-size: 15px;
+    font-size: 17px;
     font-weight: normal;
     font-family: "Lucida Console", "Courier New", monospace;
     color: white;
