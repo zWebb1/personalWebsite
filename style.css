@@ -17,7 +17,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.text {
+.aboutText {
     font-size: 15px;
     font-weight: normal;
     font-family: "Lucida Console", "Courier New", monospace;
@@ -37,9 +37,22 @@ body {
 }
 
 .project-section {
-    margin: 100px 100px;
+    text-align: right;
+    margin: 240px 760px;
     background-color: black;
     color: white;
     width: 50%;
     height: 100%;
+    border-color: gray;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.projectText {
+    text-align: left;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    line-height: 20px;
 }
