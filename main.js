@@ -9,7 +9,7 @@ const aboutTxt = " I am Zach. I am currently a senior in computer science at the
             computers, spending time with family and hanging out with friends. Some of my hobbies are snowboarding, \
             fishing, and weight lifting. I love getting to know people and hope we have the chance to connect soon!";
 
-const txtSpeed = 50;
+const txtSpeed = 35;
 const introspeed = 100;
 
 setTimeout(function run1() {
