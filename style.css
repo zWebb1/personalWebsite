@@ -4,15 +4,49 @@ body {
 }
 
 .header {
-    padding: 30px;
+    padding: 1%;
+    
     text-align: center;
     background: #611502;
     color: white;
     font-size: 40px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
 
+.headshotImg {
+    
+    background-color: #611502;
+    width: 12%;
+    padding: 1%;
+    border-radius: 15%;
+    margin-left: 12%;
+    
+}
+
+.fishingImg {
+    background-color: #611502;
+    width: 17%;
+    padding: 1%;
+    border-radius: 15%;
+    margin-left: 15%;
+
+}
+.cousinsImg {
+    background-color: #611502;
+    width: 12%;
+    padding: 1%;
+    border-radius: 15%;
+    margin-left: 15%;
+
+}
+
 .sub-header {
+    text-align: center;
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -26,8 +60,10 @@ body {
 }
 
 .about-section {
-    padding: 15px;
-    margin: 100px auto;
+    border-radius: 15px;
+    padding: 2%;
+    margin: auto;
+    margin-top: 2%;
     background-color: black;
     color: white;
     width: 50%;
@@ -37,10 +73,18 @@ body {
     border-style: solid;
 }
 
+.projectTitle{
+    margin-top: 7%;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .project-section {
     text-align: center;
-    padding: 15px;
-    margin: 100px auto;
+    border-radius: 15px;
+    padding: 2%;
+    margin: auto;
     background-color: black;
     color: white;
     width: 50%;
@@ -59,6 +103,9 @@ body {
     line-height: 20px;
 }
 
-.projectimg1 {
-    margin: 75px auto;
+.projectImg1 {
+    width: 25%;
+    background-color: grey;
+    padding: 1%;
+    border-radius: 15%;
 }
