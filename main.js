@@ -4,10 +4,9 @@ let j = 0;
 let i = 0;
 const cmd = "C:\\Zachary\\Webb>";
 const introTxt = " Hi!";
-const aboutTxt = " I am Zach. I am currently a senior in computer science at the University of South Carolina \
-            and expect to graduate in May of 2023.Born and raised in Charlotte, North Carolina, I am passionate about \
-            computers, spending time with family and hanging out with friends. Some of my hobbies are snowboarding, \
-            fishing, and weight lifting. I love getting to know people and hope we have the chance to connect soon!";
+const aboutTxt = " I'm Zach, a recent graduate from the University of South Carolina with a Bachelor's Degree in computer science.\
+Originally from Charlotte, North Carolina, I have a passion for computers and enjoy spending time with my family and friends. In my\
+free time, I enjoy snowboarding, fishing, and weightlifting. I love meeting new people and look forward to connecting with you soon!";
 
 const txtSpeed = 35;
 const introspeed = 100;
