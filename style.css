@@ -4,12 +4,10 @@ body {
 }
 
 .header {
-    padding: 1%;
-    
-    text-align: center;
+    padding: 2.8%;
     background: #611502;
     color: white;
-    font-size: 40px;
+    text-align: left;
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 2%;
@@ -17,6 +15,94 @@ body {
     border-radius: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.title {
+    font-size: 60px;
+    text-align: center;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn {
+  background-color: white;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  width: 15%;
+}
+
+.btn:hover{
+  opacity: 0.7;
+}
+@media (max-width: 500px) {
+    .buttons {
+      text-align: center;
+      margin-top: 130%;
+      margin-left: 10%;
+      margin-bottom: 20%;
+    }
+}
+.linkedin {
+    text-align: center;
+    display: inline-block;
+    }
+.linkedin img {
+    width: 150px;
+    height: 40px;
+}
+.linkedin button {
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+color: white;
+border-color: #0072b1;
+border-radius: 10px;
+cursor: pointer;
+background-color: white;
+transition: opacity 0.15s;
+}
+.linkedin button:hover {
+opacity: 0.7;
+}
+.linkedin button:active {
+opacity: 0.6;
+}
+.github {
+    text-align: center;
+    display: inline-block;
+  }
+  .github-logo {
+    width: 45px;
+  }
+  .github-text {
+    width: 85px;
+  }
+  .github button {
+    font-size: 1.5vw;
+    color: white;
+    border-color: rgb(44, 40, 40);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    background-color: black;
+    transition: opacity 0.15s;
+  }
+  .github button:hover {
+    opacity: 0.7;
+  }
+  .github:active {
+    opacity: 0.6;
+  }
+
 
 .headshotImg {
     
