@@ -92,6 +92,23 @@ body {
     border-color: gray;
     border-width: 10px;
     border-style: solid;
+    margin-bottom: 1%;
+}
+
+.project-section2 {
+    text-align: center;
+    border-radius: 15px;
+    padding: 2%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100%;
+    border-color: gray;
+    border-width: 10px;
+    border-style: solid;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 .projectText {
