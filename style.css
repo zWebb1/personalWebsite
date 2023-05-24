@@ -7,7 +7,6 @@ body {
     padding: 2.8%;
     background: #611502;
     color: white;
-    text-align: right;
     margin-left: 2%;
     margin-right: 2%;
     margin-top: 2%;
@@ -19,6 +18,7 @@ body {
 .title {
     font-size: 60px;
     text-align: center;
+    margin-bottom: 10px;
 }
 a {
   text-decoration: none;
@@ -26,14 +26,13 @@ a {
 }
 
 .btn {
+  text-align: right;
   background-color: white;
   font-size: 15px;
   text-transform: uppercase;
   color: black;
   padding: 10px 20px;
   border-radius: 10px;
-
-  width: 15%;
 }
 
 .btn:hover{
@@ -44,7 +43,7 @@ a {
       text-align: center;
       margin-top: 130%;
       margin-left: 10%;
-      margin-bottom: 20%;
+      margin-bottom: 10%;
     }
 }
 .linkedin {
@@ -160,9 +159,9 @@ opacity: 0.6;
 }
 
 .projectTitle{
-    margin-top: 7%;
+    margin-top: 4%;
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
 }
 
