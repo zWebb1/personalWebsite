@@ -4,7 +4,7 @@ let j = 0;
 let i = 0;
 const cmd = "C:\\Zachary\\Webb>";
 const introTxt = " Hi!";
-const aboutTxt = " I'm Zach, a recent graduate from the University of South Carolina with a Bachelor's Degree in computer science.\
+const aboutTxt = " I'm Zach, a recent graduate from the University of South Carolina with a Bachelor's Degree in Computer Science.\
  Originally from Charlotte, North Carolina, I have a passion for computers and enjoy spending time with my family and friends. In my\
  free time, I enjoy snowboarding, fishing, and weightlifting. I love meeting new people and look forward to connecting with you soon!";
 
